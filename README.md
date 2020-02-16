@@ -1,0 +1,1 @@
+This is the project folder for the famour titanic survival dataset from Kaggle: https://www.kaggle.com/c/titanic
